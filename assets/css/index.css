@@ -59,8 +59,7 @@ body {
   transition: 0.3s ease;
   border-bottom: 3px solid transparent;
 }
-.navbar a:hover,
-.navbar a.active {
+.navbar a:hover {
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
@@ -93,7 +92,7 @@ span {
   color: var(--main-color);
 }
 .span-grid {
-  background: linear-gradient(to right, #dc00d3, white);
+  background: linear-gradient(to right, #dc00d3, rgb(111, 192, 242));
   background-clip: text;
   color: transparent;
 }
@@ -332,7 +331,7 @@ span {
   margin-top: 1.5rem;
   font-size: 1.8rem;
   font-weight: 600;
-  background: linear-gradient(to right, #dc00d3, white);
+  background: linear-gradient(to right, #dc00d3,rgb(111, 192, 242));
   background-clip: text;
   color: transparent;
 }
