@@ -14,10 +14,10 @@ My portfolio webpage is a static site that offers users a concise overview of my
 
 ## WebPage Details
 
-- **Logo:** Represents my name to indicate that this webpage serves as my portfolio..
+- **Logo:** Represents my name to indicate that this webpage serves as my portfolio.
 - **Navbar:** A navigation bar for seamless access to all page's sections.
 - **Introduction Section:** A brief overview about me, including how to contact me through the contact button or my social media links.
-- **Education Section:** Timeline cards showcasing my education and the years of achievement..
+- **Education Section:** Timeline cards showcasing my education and the years of achievement.
 - **My Skills Section:** Dedicated cards highlighting the variety of my skills, accompanied by relevant icons and links to example projects.
 - **Contact Me Section:** Options for users to submit their inquiries to me, including fields for name, email, phone, subject, and message.
 - **Footer:** Contains navigation links to all sections of the webpage, along with icons linking to my social media profiles.
