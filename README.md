@@ -28,3 +28,27 @@ My portfolio webpage is a static site that offers users a concise overview of my
 - **CSS3**: For styling and enhancing the visual appeal.
 - **https://boxicons.com/**: For high quality web icons.
 - **JavaScript**: For providing dynamic and interactive functionality for menu icon, allowing navigation through the webpage sections on devices of various sizes.
+
+## Setup and Installation
+
+## Testing
+-   Accessibility
+    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
+
+    ![Screenshot of the websites homepage on different devices](assets/images/test.png)
+
+    -   I tested and confirmed that the page works in different browsers; Chrome,and Edge.
+-   I tested and confirmed that all internal links are working and redirecting the user to the page's sections.
+-   I tested that all external links, to social media sites, are woking and opening in a separate tab.
+-   I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
+-   HTML
+    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+![Screenshot of the HTML Validator result](/assets/images/htmltest.png)
+
+-   CSS
+    -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
+![Screenshot of the CSS validator result](/assets/images/csstest.png)    
+
+## Bugs
+- No bugs
+

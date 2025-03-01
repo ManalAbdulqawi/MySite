@@ -20,10 +20,10 @@ html {
 }
 .header {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100px;
   padding: 4rem 12% 4rem;
   background: rgba(9, 101, 115, 0.055);
   backdrop-filter: blur(10px);
@@ -145,7 +145,7 @@ span {
   border-radius: 50%;
   color: var(--main-color);
   margin: 3rem 1.5rem 3rem 0;
-  transition: 0.3 ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 .social-icons a:hover {
   color: var(--text-color);
@@ -164,7 +164,7 @@ span {
   border: 2px solid transparent;
   letter-spacing: 0.1rem;
   font-weight: 600;
-  transition: 0.3 ease-in-out;
+  transition: 0.3s ease-in-out;
   cursor: pointer;
 }
 
@@ -195,7 +195,7 @@ span {
 }
 .education {
   padding: 100px 15px;
-  background: (--second-bg-color);
+  background: var(--second-bg-color);
 }
 .education h2 {
   margin-bottom: 5rem;
@@ -234,7 +234,7 @@ span {
   height: 21px;
   width: 21px;
   background-color: var(--main-color);
-  box-shadow: 0 0 25px var(--main-color), 0 0 50% var(--main-color);
+  box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color);
   position: absolute;
   left: calc(50% - 8px);
   border-radius: 50%;
@@ -311,7 +311,7 @@ span {
   background: rgba(0, 0, 0, 0.7);
   border: 2px solid rgba(83, 83, 83, 0.212);
   border-radius: 2rem;
-  margin: 0 2ren;
+  margin: 0 2rem;
   padding: 30px 60px;
 
   display: flex;
@@ -331,7 +331,7 @@ span {
   margin-top: 1.5rem;
   font-size: 1.8rem;
   font-weight: 600;
-  background: linear-gradient(to right, #dc00d3,rgb(111, 192, 242));
+  background: linear-gradient(to right, #dc00d3, rgb(111, 192, 242));
   background-clip: text;
   color: transparent;
 }
