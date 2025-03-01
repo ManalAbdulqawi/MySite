@@ -21,3 +21,10 @@ My portfolio webpage is a static site that offers users a concise overview of my
 - **My Skills Section:** Dedicated cards highlighting the variety of my skills, accompanied by relevant icons and links to example projects.
 - **Contact Me Section:** Options for users to submit their inquiries to me, including fields for name, email, phone, subject, and message.
 - **Footer:** Contains navigation links to all sections of the webpage, along with icons linking to my social media profiles.
+
+## Technologies Used
+
+- **HTML5**: For structuring the webpage content.
+- **CSS3**: For styling and enhancing the visual appeal.
+- **https://boxicons.com/**: For high quality web icons.
+- **JavaScript**: For providing dynamic and interactive functionality for menu icon, allowing navigation through the webpage sections on devices of various sizes.
