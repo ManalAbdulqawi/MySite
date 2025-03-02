@@ -52,3 +52,26 @@ My portfolio webpage is a static site that offers users a concise overview of my
 ## Bugs
 - No bugs
 
+## Deployment
+
+### Version Control
+-   The site was created using Visual Studio Code and pushed to Github to the remote repository.
+-   Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
+    -   git add . - to add the files to the staging area before being committed.
+    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+    -   git push - to push all committed code to the remote repository on Github.
+
+### Deployment to Github pages
+-   The site was deployed to Github pages as follows:
+    -   In the Github repository, I navigated to Settings tab
+    -   From the source section drop-down menu, I selected the Master branch and Save
+    -   Once the Master branch was selected, the page provided the link to the website
+-   The live link: [Dream Events](https://saeed-l5.github.io/dream-events/)
+
+### Cloning of the Repository Code locally
+-   Go to the Github repository that you want to clone
+-   Click on the Code button located above all the project files
+-   Click on HTTPS and copy the repository link
+-   Open the IDE of your choice and and paste the copied git url into the IDE terminal
+-   The project is now created as a local clone
+
