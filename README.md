@@ -32,46 +32,51 @@ My portfolio webpage is a static site that offers users a concise overview of my
 ## Setup and Installation
 
 ## Testing
--   Accessibility
-    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
 
-    ![Screenshot of the websites homepage on different devices](assets/images/test.png)
+- Accessibility
 
-    -   I tested and confirmed that the page works in different browsers; Chrome,and Edge.
--   I tested and confirmed that all internal links are working and redirecting the user to the page's sections.
--   I tested that all external links, to social media sites, are woking and opening in a separate tab.
--   I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
--   HTML
-    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
-![Screenshot of the HTML Validator result](/assets/images/htmltest.png)
+  - I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
 
--   CSS
-    -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
-![Screenshot of the CSS validator result](/assets/images/csstest.png)    
+  ![Screenshot of the websites homepage on different devices](assets/images/test.png)
+
+  - I tested and confirmed that the page works in different browsers; Chrome,and Edge.
+
+- I tested and confirmed that all internal links are working and redirecting the user to the page's sections.
+- I tested that all external links, to social media sites, are woking and opening in a separate tab.
+- I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
+- HTML - No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+  ![Screenshot of the HTML Validator result](/assets/images/htmltest.png)
+
+- CSS - No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  ![Screenshot of the CSS validator result](/assets/images/csstest.png)
 
 ## Bugs
+
 - No bugs
 
 ## Deployment
 
 ### Version Control
--   The site was created using Visual Studio Code and pushed to Github to the remote repository.
--   Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
-    -   git add . - to add the files to the staging area before being committed.
-    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
-    -   git push - to push all committed code to the remote repository on Github.
 
-### Deployment to Github pages
--   The site was deployed to Github pages as follows:
-    -   In the Github repository, I navigated to Settings tab
-    -   From the source section drop-down menu, I selected the Master branch and Save
-    -   Once the Master branch was selected, the page provided the link to the website
--   The live link: [Dream Events](https://saeed-l5.github.io/dream-events/)
+- The site was created using Visual Studio Code and pushed to Github to the remote repository.
+- Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
+  - git add . - to add the files to the staging area before being committed.
+  - git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+  - git push - to push all committed code to the remote repository on Github.
+
+### Deployment to Netlify
+
+- The site was deployed to https://app.netlify.com/:
+  - In the main page click on Add new site drop down list ,and choose Import an existing project
+  - Choose github, then choose the project repository
+  - Give the site name,and choose main for branch to deploy
+  - Click Deploy button and wait until the deployment process finish
+- The live link: [manalwebsite2025](https://manalwebsite2025.netlify.app/)
 
 ### Cloning of the Repository Code locally
--   Go to the Github repository that you want to clone
--   Click on the Code button located above all the project files
--   Click on HTTPS and copy the repository link
--   Open the IDE of your choice and and paste the copied git url into the IDE terminal
--   The project is now created as a local clone
 
+- Go to the Github repository that you want to clone
+- Click on the Code button located above all the project files
+- Click on HTTPS and copy the repository link
+- Open the IDE of your choice and and paste the copied git url into the IDE terminal
+- The project is now created as a local clone
