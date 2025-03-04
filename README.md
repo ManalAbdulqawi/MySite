@@ -88,5 +88,13 @@ My portfolio webpage is a static site that offers users a concise overview of my
 
 
 ![screenshot of desktop page wire frame](assets/images/appereance.png)
+## Credits
+- Special thanks to my mentor, Spencer_ci, for his invaluable support and for answering all my questions on Slack!
 
+### Content
+- The icons in the footer are sourced from [Boxicons](https://boxicons.com/).
+- The social media links to Github, Youtube, and Linkedin lead to my personal pages.
+- The design of the webpage was inspired by this [YouTube tutorial](https://www.youtube.com/watch?v=UqHILyzcULE).
 
+### Media
+- The image in the home section was created using AI from [DeepAI](https://deepai.org/).
