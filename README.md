@@ -1,4 +1,4 @@
-# My Personal Portfolio Website using HTML, CSS, and JS.
+## My Personal Portfolio Website using HTML, CSS, and JS
 
 ## Overview
 
@@ -84,16 +84,9 @@ My portfolio webpage is a static site that offers users a concise overview of my
 ## Wireframes
 -   The initial design and layout of the my potfolio webpage were planned using the marvelapp designing tool. Each wireframe showcases the design across three screen sizes: 895px (mobile), 991px (tablet), and  1285px (desktop).
 
-- Desktop Page Wireframe
+- Desktop, Tablet, and Mobile Page Wireframe
 
 
-![screenshot of desktop page wire frame](assets/images/desktop.png)
+![screenshot of desktop page wire frame](assets/images/appereance.png)
 
-- Tablet Page Wireframe
-
-![screenshot of tablet page wire frame](assets/images/tablet.png)
-
-- Mobile Page Wireframe
-
-![screenshot of mobile page wire frame](assets/images/mobile.png)
 
