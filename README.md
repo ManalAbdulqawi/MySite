@@ -80,3 +80,20 @@ My portfolio webpage is a static site that offers users a concise overview of my
 - Click on HTTPS and copy the repository link
 - Open the IDE of your choice and and paste the copied git url into the IDE terminal
 - The project is now created as a local clone
+
+## Wireframes
+-   The initial design and layout of the my potfolio webpage were planned using the marvelapp designing tool. Each wireframe showcases the design across three screen sizes: 895px (mobile), 991px (tablet), and  1285px (desktop).
+
+- Desktop Page Wireframe
+
+
+![screenshot of desktop page wire frame](assets/images/desktop.png)
+
+- Tablet Page Wireframe
+
+![screenshot of tablet page wire frame](assets/images/tablet.png)
+
+- Mobile Page Wireframe
+
+![screenshot of mobile page wire frame](assets/images/mobile.png)
+
