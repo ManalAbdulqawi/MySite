@@ -92,7 +92,7 @@ span {
   color: var(--main-color);
 }
 .span-grid {
-  background: linear-gradient(to right, #dc00d3, rgb(221, 240, 252));
+  background: linear-gradient(to right, #dc00d3, white);
   background-clip: text;
   color: transparent;
 }
@@ -331,7 +331,7 @@ span {
   margin-top: 1.5rem;
   font-size: 1.8rem;
   font-weight: 600;
-  background: linear-gradient(to right, #dc00d3, rgb(221, 240, 252));
+  background: linear-gradient(to right, #dc00d3, white);
   background-clip: text;
   color: transparent;
 }
