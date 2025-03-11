@@ -89,10 +89,11 @@ My portfolio webpage is a static site that offers users a concise overview of my
 
 ![screenshot of desktop page wire frame](assets/images/appereance.png)
 ## Credits
-- Special thanks to my mentor, Spencer_ci, for his invaluable support and for answering all my questions on Slack!
+- Special thanks to my mentor, Spencer_ci, and Robert Thompson from Dudley College for their invaluable support and for answering all my questions on Slack and Teams!
 
 ### Content
-- The icons in the footer are sourced from [Boxicons](https://boxicons.com/).
+- The icons in the footer and home sections are sourced from [Boxicons](https://boxicons.com/).
+- The tab icon is sourced from [favicon.io](https://favicon.io/emoji-favicons/girl)
 - The social media links to Github, Youtube, and Linkedin lead to my personal pages.
 - The design of the webpage was inspired by this [YouTube tutorial](https://www.youtube.com/watch?v=UqHILyzcULE).
 
