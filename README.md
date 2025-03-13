@@ -89,7 +89,7 @@ My portfolio webpage is a static site that offers users a concise overview of my
 
 ![screenshot of desktop page wire frame](assets/images/appereance.png)
 ## Credits
-- Special thanks to my mentor, Spencer_ci, and Robert Thompson from Dudley College for their invaluable support and for answering all my questions on Slack and Teams!
+- Special thanks to my mentor, Spencer_ci, and my Lecturer Robert Thompson from Dudley College for their invaluable support and for answering all my questions on Slack and Teams!
 
 ### Content
 - The icons in the footer and home sections are sourced from [Boxicons](https://boxicons.com/).
