@@ -67,6 +67,9 @@ body {
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
+#contact-link{
+  display: none;
+}
 #menu-icon {
   font-size: 3.6rem;
   color: var(--main-color);
@@ -446,9 +449,7 @@ transition: 0.3s ease-in-out;
 }
 /* This part for tablet responsive */
 @media (max-width: 991px) {
-  .header .btn{
-    display: none;
-  }
+ 
   header {
     padding: 2rem 3%;
   }
@@ -464,6 +465,12 @@ transition: 0.3s ease-in-out;
 }
 /* This part for small screens responsive */
 @media (max-width: 895px) {
+  .header .btn{
+    display: none;
+  }
+  #contact-link
+  {display: block;}
+
   #menu-icon {
     display: block;
   }
