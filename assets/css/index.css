@@ -429,7 +429,30 @@ resize: none;
   text-align: center;
   font-size: 16px;
   color: white;
+  margin-bottom: 50px;
 }
+.arrow
+{position: absolute;
+right: 20px;
+bottom: 20px;
+text-align: center;
+width: 3.5rem;
+height: 3.5rem;
+background: transparent;
+border: 2px solid var(--main-color);
+font-size: 3rem;
+border-radius: 30%;
+color: var(--main-color);
+transition: 0.3s ease-in-out;
+
+}
+.arrow:hover {
+  color: var(--text-color);
+  transform: scale(1.3) translateY(-5px);
+  box-shadow: 0 0 25px var(--main-color);
+  background-color: var(--main-color);
+}
+
 /* This part for desktop responsive */
 @media (max-width: 1285px) {
   html {
@@ -444,16 +467,13 @@ resize: none;
   section {
     padding: 10rem 3% 2rem;
   }
-  
   .skills .wrapper {
     grid-template-columns: repeat(1, 1fr);
   }
-  
   .footer {
     padding: 2rem 3%;
   }
 }
-
 /* This part for small screens responsive */
 @media (max-width: 895px) {
   #menu-icon {
