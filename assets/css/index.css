@@ -17,7 +17,7 @@
   --grid-color2: linear-gradient(to right, #dc00d3, white);
  
 }
-/*Style of header */ 
+/*Style of header by learning from tutorial link in github*/ 
 html {
   font-size: 60%;
   overflow-x: hidden;
@@ -66,7 +66,7 @@ body {
 .navbar a:hover {
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
-}
+} 
 #contact-link{
   display: none;
 }
@@ -147,6 +147,7 @@ span {
 .social-icons{
   margin-left: 20px;
 }
+/* style home social media icons by learning from tutorial link in github*/
 .social-icons a { 
   display:inline-flex;
   justify-content: center;
@@ -223,7 +224,7 @@ border: 1px solid var(--main-color);}
   left:-33px;
   top:40px;
 }
-/* Style the scrollbar */
+/* Style the scrollbar by learning from tutorial link in github */
 
 ::-webkit-scrollbar {
   width: 15px;
@@ -236,7 +237,7 @@ border: 1px solid var(--main-color);}
   background-color: var(--bg-color);
   width: 50px;
 }
-/*style genral buttons */ 
+/*style genral buttons by learning from tutorial link in github */ 
 .btn {
   display: inline-block;
   padding: 1rem 1.8rem;
@@ -354,15 +355,12 @@ text-align: center;
 .contact form .input-box input{
 width: 49%;
 }
-.contact form textarea{
-resize: none;
-}
 .contact form .btn {
   margin-top: 3rem;
   box-shadow: 0 0 20px var(--main-color);
   font-size: 2rem; 
 }
-/*style footer section */ 
+/*style footer section from tutorial link in github */ 
 .footer {
   position: relative;
   bottom: 0;
