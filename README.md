@@ -2,7 +2,7 @@
 
 ## Overview
 
-My portfolio webpage is a static site that offers users a concise overview of my background, education, skills, and includes a contact form. It features a creative, modern, and elegant design.
+My portfolio website is a static site that provides a comprehensive overview of my background, CV, work availability, education, and skills, along with a contact form. It features a creative, modern, and elegant design.
 
 ![Screenshot of the websites homepage on different devices](assets/images/responsive.png)
 
@@ -16,7 +16,7 @@ My portfolio webpage is a static site that offers users a concise overview of my
 
 - **Logo:** Represents my name to indicate that this webpage serves as my portfolio.
 - **Navbar:** A navigation bar for seamless access to all page's sections.
-- **Introduction Section:** A brief overview about me, including how to contact me through the contact button or my social media links.
+- **Introduction Section:** A brief overview about me, including my social media links and view my CV.
 - **Education Section:** Timeline cards showcasing my education and the years of achievement.
 - **My Skills Section:** Dedicated cards highlighting the variety of my skills, accompanied by relevant icons and links to example projects.
 - **Contact Me Section:** Options for users to submit their inquiries to me, including fields for name, email, phone, subject, and message.

@@ -54,7 +54,6 @@ body {
   background: var(--bg-color);
   color: var(--text-color);
 }
-
 .navbar a {
   font-size: 1.8rem;
   color: var(--text-color);
@@ -124,6 +123,9 @@ span {
 .home-buttons .btn{
   display: inline-block;
 }
+.home-content h2 .span2{
+  color: cyan;
+}
 .home-img img {
   position: relative;
   top: 3rem;
@@ -139,6 +141,7 @@ span {
     background-color:var(--main-color);
 }
 .home-content p {
+  margin-bottom: 2.3rem;
   font-size: 1.8rem;
   font-weight: 500;
   line-height: 1.8;
