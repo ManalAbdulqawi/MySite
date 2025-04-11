@@ -59,10 +59,86 @@ The primary purpose of this portfolio is to present my CV, skills, and way to co
 
   ![Screenshot of the websites homepage on different devices](assets/images/test.png)
 
- - I tested and confirmed that the page works in different browsers; Chrome,and Edge.
-- I tested and confirmed that all internal links are working and redirecting the user to the page's sections.
+  ## Testing
+## Browser Testing
+I tested a range of web browswers. See an example of tests below.
+<table>
+  <thead>
+    <tr>
+      <th>Browser</th>
+      <th>Appearance</th>
+      <th>Responsiveness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chrome</td>
+      <td>All the page's secttions format correctly. All buttons work well.</td>
+      <td>Responsive design / Very good</td>
+    </tr>
+    <tr>
+       <td>Safari</td>
+      <td>All the page's secttions format correctly. All buttons work well.</td>
+      <td>Responsive design / Very good</td>
+    </tr>
+    <tr>
+      <td>Edge</td>
+      <td>All the page's secttions format correctly. All buttons work well.</td>
+      <td>Responsive design / Very good</td>
+    </tr>
+ 
+  </tbody>
+</table>
+
+## Responsive Testing
+
+<table>
+  <thead>
+    <tr>
+      <th>Tested Item</th>
+      <th>Max-Width 320px Result (Small Mobile)</th>
+      <th>Min-Width 425px Result (Large Mobile)</th>
+      <th>Min-Width 768px Result (Tablet)</th>
+      <th>Min-Width 992px and Larger Result (Desktop)</th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buttons and Links</td>
+      <td>All website's buttons and links are placed as intended (Tested).</td>
+      <td>All website's buttons and links are placed as intended (Tested).</td>
+      <td>All website's buttons and links are placed as intended (Tested).</td>
+      <td>All website's buttons and links are placed as intended (Tested).</td>
+    </tr>
+    <tr>
+       <td>Navbar and Logo </td>
+       <td>Minmize the logo and hiding the navbar links with displaying the menu icon (Tested).</td>
+      <td>Minmize the logo and hiding the navbar links with displaying the menu icon (Tested).</td>
+      <td>Hiding the navbar links with displaying the menu icon (Tested).</td>
+      <td>Display the navbar links with hiding the menu icon (Tested).</td>
+    </tr>
+    <tr>
+      <td>Section's Content</td>
+      <td>Minimize the sections sizes and display their content vertically (Tested).</td>
+      <td>Minimize the sections sizes and display their content vertically (Tested).</td>
+      <td>Minimize the sections sizes and display their content vertically expecting the contact me section (Tested).</td>
+        <td>All section's content displayed as intended (Tested)</td>
+    </tr>
+    <tr>
+    <td>Contact Me Form Submission</td>
+    <td>The thank you popup message work as intended (Tested).</td>
+    <td>The thank you popup message work as intended (Tested).</td>
+    <td>The thank you popup message work as intended (Tested).</td>
+    <td>The thank you popup message work as intended (Tested)..</td>
+    </tr>
+ 
+  </tbody>
+</table>
+
 - I tested that all external links, to social media sites, are woking and opening in a separate tab.
-- I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
+- I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address.
+
 - HTML - No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
   ![Screenshot of the HTML Validator result](/assets/images/htmltest.png)
 
@@ -72,6 +148,10 @@ The primary purpose of this portfolio is to present my CV, skills, and way to co
 ## Bugs
 
 - No bugs
+
+## Future Improvment 
+
+- Implementing the contact form functionality to ensure that users' messages and details are sent directly to my email.
 
 ## Deployment
 
