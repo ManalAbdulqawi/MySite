@@ -6,11 +6,31 @@ My portfolio website is a static site that provides a comprehensive overview of 
 
 ![Screenshot of the websites homepage on different devices](assets/images/responsive.png)
 
+## Purpose
+
+The primary purpose of this portfolio is to present my CV, skills, and way to contact me in a user-friendly format. It is designed to give potential employers, collaborators, and clients a clear insight into my capabilities and the value I can bring to their teams or projects. 
+
+## Value to Users
+
+### For Employers
+
+- **Insight into Skills**: Employers can quickly evaluate my technical and soft skills, making it easier to see if I would be a good fit for their team.
+
+- **Project Examples**: By viewing my past projects, hiring managers can gauge my problem-solving abilities, creativity, and the quality of my work.
+
+### For Collaborators
+
+- **Ease of Communication**: The integrated contact form and social media links facilitate easy communication for potential collaborations to contact and discuss project ideas.
+
+### For Clients 
+
+- **Service Offerings**: Clients can better understand the services I offer based on the skills and projects showcased in the portfolio.
+
 ## Features
 
 1. **Responsive Design:** Adapts seamlessly to various screen sizes and devices for an optimal user experience.
 2. **Cutting Edge Design:** Ensures that all elements of the website—such as the logo, navigation, sections, scroll bar, and footer—are crafted in line with the latest trends in portfolio web design.
-3. **Interactive Elements:** Includes navigation bar's links,social media icons' links, and footer's links.
+3. **Interactive Elements:** Includes navigation bar's links, social media icons' links, and submit button popup thank you message.
 
 ## WebPage Details
 
@@ -39,8 +59,7 @@ My portfolio website is a static site that provides a comprehensive overview of 
 
   ![Screenshot of the websites homepage on different devices](assets/images/test.png)
 
-  - I tested and confirmed that the page works in different browsers; Chrome,and Edge.
-
+ - I tested and confirmed that the page works in different browsers; Chrome,and Edge.
 - I tested and confirmed that all internal links are working and redirecting the user to the page's sections.
 - I tested that all external links, to social media sites, are woking and opening in a separate tab.
 - I tested and confirmed that the contact form works, all fields are required, the email field only accepts email address, and the submit button link works:
