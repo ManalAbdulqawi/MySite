@@ -117,12 +117,12 @@
           <div class="skills-item">
             <i class="bx bx-code"></i>
             <h2>Front-End Developer</h2>
-            <p>I developed front-end webpages by using HTML and CSS.</p>
+            <p>I developed front-end webpages by using HTML, CSS and JS.</p>
             <a
-              href="https://manal-abdulqawi.netlify.app/"
+              href="https://lovemaths.netlify.app/"
               target="_blank"
               class="btn"
-              >HTML & CSS webpage</a>
+              >Love Maths Game</a>
           </div>
           <div class="skills-item">
             <i class="bx bx-code-curly"></i>
@@ -167,21 +167,27 @@
       <h2 class="heading">Contact <span>Me</span></h2>
       <form action="#">
           <div class="input-box">
-            <input type="text" placeholder="Full Name" required >
-            <input type="email" placeholder="Email" required >
+            <input name="Full Name" type="text" placeholder="Full Name" required id="name" >
+            <input name="Email"  type="email" placeholder="Email" required id="email" >
           </div>
           <div class="input-box">
-            <input type="tel" placeholder="Phone Number" required >
-            <input type="text" placeholder="Subject" required >
+            <input name="Phone No"  type="tel" placeholder="Phone Number" required id="phone">
+            <input name="Subject"  type="text" placeholder="Subject" required id="subject">
           </div>
           <textarea
-            name="message"
-            id="userMessage"
+            name="Message"
+            id="Message"
             cols="30"
             rows="10"
             placeholder="Your Message"
-          ></textarea>
-          <input type="submit" value="Send Message" class="btn" >
+         required ></textarea>
+          <button type="submit"  class="btn" onclick="openPopup()" >Send Message</button>
+          <div class="popup" id="popup">
+            <i class='bx bxs-badge-check' ></i>
+            <h2>Thank You!</h2>
+            <p>Your details has been successfully submitted. I will contact with you soon.</p>
+            <button type="button" onclick="closePopup()">OK</button>
+          </div>
       </form>
     </section>
     <footer class="footer">
