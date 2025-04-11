@@ -100,8 +100,7 @@ I tested a range of web browswers. See an example of tests below.
       <th>Min-Width 425px Result (Large Mobile)</th>
       <th>Min-Width 768px Result (Tablet)</th>
       <th>Min-Width 992px and Larger Result (Desktop)</th>
-     
-    </tr>
+   </tr>
   </thead>
   <tbody>
     <tr>
