@@ -64,6 +64,9 @@
 
    ![Screenshot of contact me section](assets/images/contact-section.png)
 
+   ![Screenshot of contact me section](assets/images/popup-message.png)
+
+
 
 ## User Story 5
 - **Feature Title:** Footer
